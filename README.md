@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![euiyounghwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=euiyounghwang&hide=contribs,prs)
+![euiyounghwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=euiyounghwang&hide=) ![euiyounghwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=euiyounghwang&count_private=true)
