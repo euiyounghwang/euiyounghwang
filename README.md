@@ -30,7 +30,7 @@ https://esbook.kimjmin.net/08-aggregations/8.4-pipeline-aggregations
 
   <div align=center><h1>📚 STACKS</h1></div>
   <div align=center> 
-    <img src="https://img.shields.io/badge/Search Engine-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/Search Engine-458CF5?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/AI-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/BigData-F05032?style=for-the-badge&logo=git&logoColor=white">
     <br />
