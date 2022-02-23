@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 Highlight 신청
 https://github.com/developer/register?account=euiyounghwang
 
+ICON
+https://simpleicons.org/
 
 -->
   <div align=center><h1>📚 STACKS</h1></div>
@@ -26,30 +28,33 @@ https://github.com/developer/register?account=euiyounghwang
     <img src="https://img.shields.io/badge/AI-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/BigData-F05032?style=for-the-badge&logo=git&logoColor=white">
     <br />
-    <img src="https://img.shields.io/badge/Google Search Appliance-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Google Search Appliance-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/Elastic Stack-005571?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/Elasticsearch-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Logstash-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=firebase&logoColor=white">
     <img src="https://img.shields.io/badge/Kibana-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/Beat-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
     <img src="https://img.shields.io/badge/Search Guard-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-    <br />
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/Rest_flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <br />  
+    <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=linux&logoColor=black"> 
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=fontawesome&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=fontawesome&logoColor=white">
     <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     <img src="https://img.shields.io/badge/Redis-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <br />
+    <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/SVN-F05032?style=for-the-badge&logo=git&logoColor=white">
   </div>
