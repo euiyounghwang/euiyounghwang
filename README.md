@@ -42,8 +42,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     <img src="https://img.shields.io/badge/Redis-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </div>
+  <div>
+    ![euiyounghwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=euiyounghwang&hide=&show_icons=true)
+  </div>
 </div>
 <br/>
-
-![euiyounghwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=euiyounghwang&hide=&show_icons=true)  
+  
 
