@@ -47,6 +47,7 @@ https://esbook.kimjmin.net/08-aggregations/8.4-pipeline-aggregations
     <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=firebase&logoColor=white">
     <img src="https://img.shields.io/badge/Kibana-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/Beat-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+    <img src="https://img.shields.io/badge/Beat-C01818?style=for-the-badge&logo=fontawesome&logoColor=white">
     <img src="https://img.shields.io/badge/Search Guard-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
