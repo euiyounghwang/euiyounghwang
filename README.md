@@ -59,8 +59,6 @@ https://esbook.kimjmin.net/08-aggregations/8.4-pipeline-aggregations
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
     <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=linux&logoColor=black"> 
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
     <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=fontawesome&logoColor=white">
     <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=fontawesome&logoColor=white">
