@@ -44,6 +44,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     <img src="https://img.shields.io/badge/Redis-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <br />
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/SVN-F05032?style=for-the-badge&logo=git&logoColor=white">
   </div>
 </div>
 <br/>
