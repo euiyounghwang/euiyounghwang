@@ -72,3 +72,19 @@ https://esbook.kimjmin.net/08-aggregations/8.4-pipeline-aggregations
 ![trophy](https://github-profile-trophy.vercel.app/?username=euiyounghwang)
 -->
 
+<!--
+
+https://docs.search-guard.com/latest/search-guard-versions
+https://github.com/muik/transliteration/blob/master/data/source/suggests.txt
+https://github.com/gritmind/engkor_transliterator
+http://yonghee.io/bert_binary_classification_naver/
+https://zzaebok.github.io/deep_learning/nlp/Bert-for-classification/
+https://github.com/monologg/KoBERT-Transformers
+https://doheon.github.io/%EC%BD%94%EB%93%9C%EA%B5%AC%ED%98%84/nlp/ci-kobert-post/
+https://github.com/lovit/soykeyword
+https://github.com/lovit/soyspacing
+https://github.com/KDT-Hot6/final_project
+
+-->
+
+
