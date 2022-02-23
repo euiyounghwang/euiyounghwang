@@ -37,6 +37,7 @@ https://esbook.kimjmin.net/08-aggregations/8.4-pipeline-aggregations
     <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=git&logoColor=white">
     <br />
     <img src="https://img.shields.io/badge/Google Search Appliance-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/Elastic Stack-005571?style=for-the-badge&logo=html5&logoColor=white">
