@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+배지 :: https://shields.io/
+아이콘 :: https://simpleicons.org/
+
 -->
 
 
