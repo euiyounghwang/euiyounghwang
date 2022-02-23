@@ -66,5 +66,6 @@ https://hits.seeyoufarm.com/
 
 <!--
 ![euiyounghwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=euiyounghwang&hide=&show_icons=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=euiyounghwang)
 -->
 
