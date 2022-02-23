@@ -21,6 +21,9 @@ https://github.com/developer/register?account=euiyounghwang
 ICON
 https://simpleicons.org/
 
+Hit 신청
+https://hits.seeyoufarm.com/
+
 -->
   <div align=center><h1>📚 STACKS</h1></div>
   <div align=center> 
