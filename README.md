@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div align=center><h1>📚 STACKS</h1></div>
+  <div align=center><h1>📚 STACKS</h1></div>
   <div align=center> 
     <img src="https://img.shields.io/badge/Search Engine-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/AI-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
@@ -58,5 +58,4 @@ Here are some ideas to get you started:
 <!--
 ![euiyounghwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=euiyounghwang&hide=&show_icons=true)
 -->
-  
 
