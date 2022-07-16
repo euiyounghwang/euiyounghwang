@@ -42,7 +42,7 @@ https://hits.seeyoufarm.com/
 https://esbook.kimjmin.net/08-aggregations/8.4-pipeline-aggregations
 -->
 
-  <div align=center><h1>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)</h1></div>
+  <div align=center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)</div>
   <div align=center><h1>📚 STACKS</h1></div>
   <div align=center> 
     <img src="https://img.shields.io/badge/Search Engine-458CF5?style=for-the-badge&logo=react&logoColor=black">
