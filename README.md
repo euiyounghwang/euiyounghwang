@@ -71,12 +71,8 @@ https://esbook.kimjmin.net/08-aggregations/8.4-pipeline-aggregations
     <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=linux&logoColor=black"> 
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=fontawesome&logoColor=white">
     <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=fontawesome&logoColor=white">
     <img src="https://img.shields.io/badge/Apache Tika-FFDD00?style=for-the-badge&logo=fontawesome&logoColor=white">
     <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
