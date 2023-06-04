@@ -8,6 +8,8 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 vi ~/.zshrc
 export PATH=/opt/homebrew/bin:$PATH
 
+# Poetry Installl (https://blog.flynnpark.dev/15)
+
 # Intellij GitHub  연동
 https://hoohaha.tistory.com/30
 
