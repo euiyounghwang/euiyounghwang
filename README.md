@@ -4,6 +4,10 @@
 # Terminal Branch
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
+# zsh: command not found: brew (https://hbase.tistory.com/425)
+vi ~/.zshrc
+export PATH=/opt/homebrew/bin:$PATH
+
 # Intellij GitHub  연동
 https://hoohaha.tistory.com/30
 
