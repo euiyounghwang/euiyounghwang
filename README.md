@@ -54,9 +54,6 @@ https://esbook.kimjmin.net/08-aggregations/8.4-pipeline-aggregations
 -->
                 
   <div align=center><h1>📚 STACKS</div>
-  <div align=center>
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/euiyounghwang)]
-	</div>
   <div align=center> 
     <img src="https://img.shields.io/badge/Search Engine-458CF5?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/AI-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
