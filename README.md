@@ -54,7 +54,7 @@ https://esbook.kimjmin.net/08-aggregations/8.4-pipeline-aggregations
 -->
        
   <p align="center"> 
-         <img src="https://github-readme-stats.vercel.app/api?username=euiyounghwang&theme=vue&show_icons=true"/></a>
+         <img src="https://github-readme-stats.vercel.app/api?username=euiyounghwang&theme=dark&show_icons=true"/></a>
   </p>
   <div align=center><h1>📚 STACKS</div>
   <div align=center> 
