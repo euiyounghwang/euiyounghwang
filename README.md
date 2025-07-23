@@ -99,7 +99,7 @@ https://esbook.kimjmin.net/08-aggregations/8.4-pipeline-aggregations
 </div>
 <br/>
 <p align="center"> 
-       <img src="https://github-readme-stats.vercel.app/api?username=euiyounghwang&theme=dark&show_icons=true"/></a>
+       <img src="[https://github-readme-stats.vercel.app/api?username=euiyounghwang&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=euiyounghwang&theme=dark&show_icons=true&hide_rank=true)"/></a>
 </p>
 
 <!--
